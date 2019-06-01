@@ -15,7 +15,7 @@ namespace WebApplication20.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " Testing SCM_REPOSITORY_PATH setting";
+            ViewBag.Message = " Testing PROJECT setting";
 
             return View();
         }
