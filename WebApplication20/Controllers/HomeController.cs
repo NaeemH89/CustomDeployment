@@ -15,7 +15,7 @@ namespace WebApplication20.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " Testing  naeem2 as repo";
+            ViewBag.Message = " Testing  stopped site";
 
             return View();
         }
