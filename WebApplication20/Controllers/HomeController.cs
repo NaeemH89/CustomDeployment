@@ -15,7 +15,7 @@ namespace WebApplication20.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " Testing  PROJECT setting2";
+            ViewBag.Message = " Testing repository";
 
             return View();
         }
