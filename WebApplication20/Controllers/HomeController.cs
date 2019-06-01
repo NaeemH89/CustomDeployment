@@ -15,7 +15,7 @@ namespace WebApplication20.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = " Testing  stopped site";
+            ViewBag.Message = " deleted folr usin attrib -r *.*";
 
             return View();
         }
